@@ -5,7 +5,7 @@ Currently in **Week 1** of development.
 
 ---
 
-## 🚀 Week 1 Progress
+## 🚀Development Journal — Week 1
 
 - **Database Layer (SQLite)**
   - Tables for bots, Q&A pairs, statistics, and users.
@@ -22,10 +22,8 @@ Currently in **Week 1** of development.
 
 ---
 
-# Development Journal — Day 2 (Week 1)
+## 🚀Development Journal — Week 2
 
-
-### **Key Achievements:**
 - **Frontend & Backend Integration:**
 - The chat interface now successfully sends user messages to the backend and receives responses in real-time.
 - Smooth scroll-to-latest-message behavior implemented.
