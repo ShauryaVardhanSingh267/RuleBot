@@ -46,12 +46,4 @@ Currently in **Week 1** of development.
 - Removed sound effects for sending/receiving messages for a distraction-free experience.
 - Cleaned unnecessary complexity, keeping the code optimized and readable.
 
-
-### **User Experience Improvements:**
-- Smooth, polished feel of the interface with modern design touches.
-- Typing indicator creates a realistic chat vibe.
-- Better responsiveness means the chat works perfectly on both desktop and mobile devices.
-
-
-
-Day 2 officially completed — **the chat app is functional, polished, and ready for the next build phase.**
+---
